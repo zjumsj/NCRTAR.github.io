@@ -11,4 +11,4 @@
 
 ### Download urls
 <!--[Supplementary video](./edition_scis_final_720p.mp4) -->
-<a href="edition_scis_final_720p.mp4">Supplementary video</a>
+<a href="test.txt">Supplementary video</a>
